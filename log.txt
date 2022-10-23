@@ -1,0 +1,2 @@
+
+error: SQLSTATE[HY000] [1045] Access denied for user 'roo00t'@'localhost' (using password: NO)|time:1666521838
